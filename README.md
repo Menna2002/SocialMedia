@@ -15,7 +15,7 @@ This project is a social media platform built using PHP and MySQL. It allows use
 
 - **Backend:** PHP
 - **Database:** MySQL
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS
 
 ## Database Design
 
