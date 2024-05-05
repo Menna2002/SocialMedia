@@ -30,9 +30,11 @@ This project is a social media platform built using PHP and MySQL. It allows use
 ## Database Design
 
 1. **ERD**
+
 ![ERD](Design/ERD.png)
 
 2. **Schema**
+
 ![Schema](Design/Schema.png)
 
 
